@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/2021Fall/ComputerGraphics/homework/A-4/build",
+  "command": "D:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe -DCMAKE_BUILD_TYPE=Release @CMakeFiles/A4.dir/includes_C.rsp -g -o CMakeFiles\\A4.dir\\src\\glad.c.obj -c D:\\2021Fall\\ComputerGraphics\\homework\\A-4\\src\\glad.c",
+  "file": "D:/2021Fall/ComputerGraphics/homework/A-4/src/glad.c"
+},
+{
+  "directory": "D:/2021Fall/ComputerGraphics/homework/A-4/build",
+  "command": "D:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DCMAKE_BUILD_TYPE=Release @CMakeFiles/A4.dir/includes_CXX.rsp -g -o CMakeFiles\\A4.dir\\src\\main.cpp.obj -c D:\\2021Fall\\ComputerGraphics\\homework\\A-4\\src\\main.cpp",
+  "file": "D:/2021Fall/ComputerGraphics/homework/A-4/src/main.cpp"
+}
+]
