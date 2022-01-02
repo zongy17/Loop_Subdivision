@@ -36,3 +36,6 @@ A4.exe ../resource/cow 3 # 以cow.obj为输入，最多做3次细分
 A4.exe ../resource/cube 4 # 以cube.obj为输入，最多做4次细分
 ```
 
+具体的实现，请参见本人的CSDN博客：https://editor.csdn.net/md/?articleId=121590305
+
+For detailed implemenation, please refer to: https://editor.csdn.net/md/?articleId=121590305
